@@ -105,6 +105,7 @@ const sidebars = {
                         },
                         'extensions/plugins/apps-view-hook',
                         'extensions/plugins/frontend-view-hook',
+                        'extensions/plugins/order-status-types',
                         'extensions/plugins/product-form-fields',
                         'extensions/plugins/shipping-payment-overrides',
                         'extensions/plugins/task_scheduler_hooks',
